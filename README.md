@@ -1,2 +1,3 @@
-# EzAJava1
+Másik verzió # EzAJava1
 Jajjja
+Muhaha
